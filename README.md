@@ -1,4 +1,4 @@
-# Olá, Eu sou a Cíntia Marques👋
+# Olá, eu sou a Cíntia Marques👋
 
 Bem-vindo(a) ao meu perfil do GitHub! Sou uma desenvolvedora Full-Stack Jr. apaixonada por criar e contribuir para projetos que desafiam minha criatividade e habilidades técnicas. Atualmente, estou mergulhando fundo em Java, buscando me especializar ainda mais nessa linguagem poderosa.
 
