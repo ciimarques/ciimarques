@@ -1,26 +1,39 @@
-# Olá, eu sou a Cíntia Marques👋
+# Hi, I'm Cíntia Marques 👋
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou uma desenvolvedora Full-Stack Jr. apaixonada por criar e contribuir para projetos que desafiam minha criatividade e habilidades técnicas. Atualmente, estou mergulhando fundo em Java, buscando me especializar ainda mais nessa linguagem poderosa.
+**Junior Full-Stack Developer** focused on **back-end, APIs and integrations**. I enjoy building solutions that connect systems, automate processes and keep data flowing reliably.
 
-## 🌱 O que estou aprendendo
-- **Java**: Aprofundando meus conhecimentos e explorando frameworks e bibliotecas avançadas.
-- **Especialização em tecnologias Full-Stack**: Refinando minhas habilidades em ambas as frentes, front-end e back-end, para construir aplicações completas e robustas.
+I came into programming through a career change: after more than 10 years in sales, team management and entrepreneurship, I taught myself with The Odin Project and then graduated from Trybe. Learning on my own and following my curiosity is still how I grow.
 
-## 💼 Habilidades técnicas
-- **Linguagens & Frameworks**: JavaScript, TypeScript, Java, React, Redux, ContextAPI, Jest, Node.js.
-- **Front-End**: HTML, CSS, CSS Flexbox, DOM manipulation.
-- **Back-End & Banco de Dados**: MySQL, Docker, ORM, Sequelize, princípios SOLID, Programação Orientada a Objetos (POO).
-- **Ferramentas & Metodologias**: Git & GitHub, Scrum, Testes Unitários.
+## 💼 What I have experience with
+- Integrations with external services, such as **ClickSign**, digital signature and **webhooks**
+- **REST APIs** with HTTP Functions for external integrations
+- Automations with **scheduled jobs** (cron jobs)
+- Business rules, validations and data flows
+- Using **MCP (Model Context Protocol)** and **SDD (Specification-Driven Development)** in my development workflow
 
-## 🎯 Objetivos profissionais
-Estou totalmente comprometida em absorver o máximo de conhecimento possível e aplicá-lo em projetos práticos. Meu objetivo é ingressar no mercado de tecnologia como uma desenvolvedora Full-Stack competente e inovadora, contribuindo para projetos significativos e impactantes.
+## 🛠️ Tech stack
+- **Languages:** JavaScript, TypeScript, Java
+- **Back-end:** Node.js, Wix Velo, REST APIs, Webhooks, Cron Jobs
+- **Front-end:** React, Redux, Context API, HTML, CSS
+- **Databases:** MySQL, Sequelize (ORM)
+- **Tools and practices:** Git & GitHub, Docker, Jest, unit testing, OOP, SOLID, Scrum
+- **AI and workflow:** MCP, SDD
 
-## 📫 Como entrar em contato comigo
-- **Email**: cintiamarques.mk@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/ciimarques/
+## 🌱 Currently learning
+- **Java**: deepening my knowledge of the language and its ecosystem
+- **Python** and **PostgreSQL**
+- New ways to integrate tools with MCP and to structure implementations with SDD
+
+## 🎓 Education and certifications
+- **Trybe**: Full Stack Development (2023–2024)
+- **The Odin Project**: Web Development (2022)
+- Front-End, Back-End, Full-Stack and Java certificates
+- Introduction to Agent Skills
+
+## 📫 Contact
+- **Email:** cintiamarques.mk@gmail.com
+- **LinkedIn:** [linkedin.com/in/ciimarques](https://www.linkedin.com/in/ciimarques/)
 
 ---
 
-> "A tecnologia move o mundo." - Steve Jobs
-
-### Obrigado(a) por visitar meu perfil! Sinta-se à vontade para navegar pelos meus projetos e entrar em contato. 🚀
+Thanks for visiting! Feel free to explore my projects and get in touch. 🚀
